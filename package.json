@@ -1,8 +1,0 @@
-{
-  "name": "gradientrank",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/coronadodaniel/gradientrank.git",
-  "author": "Daniel <dfecoronado@gmail.com>",
-  "license": "MIT"
-}
